@@ -4,6 +4,14 @@
 
 int main(void)
 {
-	printf("tesing...\n");
+	printf("teng...\n");
+
+	printf("tesi222ing...\n");
+	printf("ing...\n");
+	printf("teng...\n");
+
+	printf("tesin33g...\n");
+	printf("tesi555ng...\n");
+	
 }
 
